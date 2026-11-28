@@ -1,1 +1,1 @@
-The code is connecting ESP32 with HC-05 via FreeRTOS tasks. The program is echo, to check if connection is working correctly.
+The code is running simulation data for ESP32 to see if the parser for data is wroking correctly.
